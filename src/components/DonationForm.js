@@ -8,7 +8,7 @@ export default class DonationForm extends Component {
     // let id = this.location.query.id;
     return (
       <div>
-
+        
       </div>
     )
   }
